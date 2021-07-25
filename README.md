@@ -1,2 +1,2 @@
-# C-
+# C++
 My programs in C++
